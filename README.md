@@ -14,14 +14,14 @@ After going through this code-along you will have an idea about
 
 ## Task
 
-Please work in pairs through the [notebook](https://github.com/neuefische/da-youtube_EDA/blob/main/youtube_EDA.ipynb) and answer the tasks which are included there.
+Please work in groups through the [notebook](https://github.com/neuefische/da-youtube_EDA/blob/main/youtube_EDA.ipynb) and answer the tasks which are included there.
 
 ## Setup
 
-For the Data Analytics Course: 
-- Open the repository in VS Code and activate your virtual environment (e.g. eda_env or nf_base).
+For the **Data Analytics** Course: 
+- No setup needed
 
-For the Data Science Course:
+For the **Data Science** Course:
 - Create a new environment:
 ```bash
 python -m venv .venv
