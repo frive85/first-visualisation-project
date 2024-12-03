@@ -1,16 +1,27 @@
-# Exploratory Data Analysis - An example
+# 🔍 Exploratory Data Analysis - An Example
 
-In this repository you will work through an example EDA to be prepared for your first EDA project.
+In this repository, you will work through an example EDA to be prepared for your first EDA project.
+
+## Objective 🎯
+
+This repository contains an example Exploratory Data Analysis (EDA) on **daily statistics for trending YouTube videos**. You will go through the essential steps of an EDA, including data cleaning, feature engineering, and hypothesis testing.
+
+After completing this code-along, you will have a clear understanding of:
+
+- How to approach an EDA 🔎
+- The individual parts of an EDA 🧩
+- The most commonly used lines of code in EDA 📝
+- How to build and answer hypotheses 💡
 
 
-## Objective
-This repository contains an example EDA on daily statistics for trending YouTube videos.
-You will go through the cleaning and feature engineering part of an EDA as well as the hypotheses making and testing part.
-After going through this code-along you will have an idea about
-- how to approach an EDA
-- the single parts of an EDA
-- what lines of code are commonly used within an EDA
-- how to build and answer hypotheses
+## Suggested Resources 📚:
+
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+
+
+
 
 ## Task
 
