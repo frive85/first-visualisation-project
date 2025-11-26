@@ -16,7 +16,6 @@ The dataset includes metadata for videos ranked on YouTube’s global trending p
 
 - **Data preprocessing**: Handling missing values, type conversion, and outlier detection  
 - **Feature engineering**: Deriving metrics like engagement ratio, video age, and category trends  
-- **Hypothesis testing**: Validating assumptions about video performance and popularity drivers  
 - **Visualization**: Using Seaborn and Matplotlib to explore patterns in views, likes, and watch time  
 
 ### 🛠️ Technologies Used
@@ -89,19 +88,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 **Author:** Patric Mertes
 **Email:** front05@gmx.de 
 **GitHub:** [@frive85](https://github.com/frive85)
-
----
-
-> *Thank you for exploring YouTube data through the lens of data analysis!* 🎥📊
-
----
-
-### ✅ Next Steps for You:
-
-1. Replace placeholder text (e.g., "Top-performing video categories") with **your actual findings**.
-2. Add **real screenshots** of your visualizations.
-3. Update the `requirements.txt` with the actual packages used.
-4. Add **links to your notebooks or live demos** (if hosted).
-5. Customize the **contact and author info**.
-
-Let me know if you'd like a version with a **more technical tone**, **simplified version**, or **with specific focus** (e.g., machine learning, time series, etc.) — I’d be happy to tailor it!
